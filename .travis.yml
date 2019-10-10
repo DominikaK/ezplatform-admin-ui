@@ -77,4 +77,4 @@ after_failure:
   - docker ps -s
 
 after_script:
-  - if [ "${BEHAT_OPTS}" != "" ] ; then bin/ezbehat -m=process-report ; fi
+  - if [ "${BEHAT_OPTS}" != "" ] ; then bin/ezreport ; fi
