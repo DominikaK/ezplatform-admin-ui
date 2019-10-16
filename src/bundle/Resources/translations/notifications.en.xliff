@@ -7,7 +7,7 @@
     </header>
     <body>
       <trans-unit id="e55cc61e6e0bcd97f329c00790704a381212f55b" resname="bookmark.list.empty">
-        <source>The notification list is empty.</source>
+        <source>You have no notifications</source>
         <target state="new">The notification list is empty.</target>
         <note>key: bookmark.list.empty</note>
       </trans-unit>
@@ -27,12 +27,12 @@
         <note>key: notification.description</note>
       </trans-unit>
       <trans-unit id="5b03625b8de51d296ad7f4bc980e631c964185d8" resname="notification.no_longer_available">
-        <source>Content not available any more</source>
+        <source>The Content item is no longer available</source>
         <target state="new">Content not available any more</target>
         <note>key: notification.no_longer_available</note>
       </trans-unit>
       <trans-unit id="d7fd0c0dc2a4267ebb5bca828e42812fded59ebb" resname="notification.permanently_deleted">
-        <source>Publication permanently deleted</source>
+        <source>Deleted</source>
         <target state="new">Publication permanently deleted</target>
         <note>key: notification.permanently_deleted</note>
       </trans-unit>
@@ -42,7 +42,7 @@
         <note>key: notification.title</note>
       </trans-unit>
       <trans-unit id="dda5c8f76779648fe17e298aaae2ea426df3f85e" resname="notification.trashed">
-        <source>Publication sent to trash</source>
+        <source>Sent to trash</source>
         <target state="new">Publication sent to trash</target>
         <note>key: notification.trashed</note>
       </trans-unit>
@@ -57,7 +57,7 @@
         <note>key: notifications</note>
       </trans-unit>
       <trans-unit id="79036b8a9fecbed5d0c14a94c5639d611c6ab6d1" resname="notifications.modal.message.error">
-        <source>Cannot update notifications count</source>
+        <source>Cannot update notifications</source>
         <target state="new">Cannot update notifications count</target>
         <note>key: notifications.modal.message.error</note>
       </trans-unit>

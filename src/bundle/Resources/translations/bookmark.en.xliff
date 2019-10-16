@@ -7,7 +7,7 @@
     </header>
     <body>
       <trans-unit id="5cc4d552faa942983e3eb8ec85c053aeb1e42ae4" resname="bookmark.button.remove">
-        <source>Remove</source>
+        <source>Remove from bookmarks</source>
         <target state="new">Remove</target>
         <note>key: bookmark.button.remove</note>
       </trans-unit>
@@ -17,7 +17,7 @@
         <note>key: bookmark.headline</note>
       </trans-unit>
       <trans-unit id="5001931b6bf98acefb5138b1cdba97d97fed4844" resname="bookmark.list.content.edit">
-        <source>Edit Content</source>
+        <source>Edit content</source>
         <target state="new">Edit Content</target>
         <note>key: bookmark.list.content.edit</note>
       </trans-unit>
@@ -27,7 +27,7 @@
         <note>key: bookmark.list.content_type</note>
       </trans-unit>
       <trans-unit id="e55cc61e6e0bcd97f329c00790704a381212f55b" resname="bookmark.list.empty">
-        <source>The bookmark list is empty. Any Content item you bookmark will end up here.</source>
+        <source>You have no bookmarks yet. Your bookmarks will show up here.</source>
         <target state="new">The bookmark list is empty. Any Content item you bookmark will end up here.</target>
         <note>key: bookmark.list.empty</note>
       </trans-unit>
